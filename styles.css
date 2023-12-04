@@ -147,7 +147,7 @@ ul li:hover a {
 .parallax_description {
 	color: #FFFFFF;
 	text-align: left;
-	padding-right: 100px;
+	padding-left: 100px;
 	width: 45%;
 	float: left;
 	font-weight: lighter;
