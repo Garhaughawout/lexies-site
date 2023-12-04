@@ -1,5 +1,9 @@
 @charset "UTF-8";
 /* Body */
+html {
+    scroll-behavior: smooth;
+}
+
 body {
 	font-family: 'Open Sans', sans-serif;
 	background-color: white;
@@ -10,7 +14,6 @@ body {
 	font-style: normal;
 	font-weight: 200;
 	z-index: 1;
-    scroll-behavior: smooth;
 }
 /* Container */
 .container {
